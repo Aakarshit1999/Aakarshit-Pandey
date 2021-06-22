@@ -1,7 +1,7 @@
 # Aakarshit-Pandey
 <p align="center">
 
-  <img src="https://media4.giphy.com/media/7FrOU9tPbgAZtxV5mb/200w.webp?cid=ecf05e473w35bk4vd2f2ha7gto0h05ccm93q1g0pa5yvwhjz&rid=200w.webp&ct=g" alt="Coder GIF" width="600" height="300">
+  <img src="https://media4.giphy.com/media/zXmbOaTpbY6mA/100.webp?cid=ecf05e47nn3i2rei26xztsgo98op7b0ooisoeuquica8o5w8&rid=100.webp&ct=g" alt="Coder GIF" width="600" height="300">
   
   
 <!--    <img src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" alt="Coder GIF" width="600" height="300"> -->
@@ -29,7 +29,3 @@
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=Aakarshit1999&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs&include_all_commits=true">
 </p>
-
-
-<img src="https://media4.giphy.com/media/11ZSwQNWba4YF2/giphy.webp?cid=ecf05e47vphnoefz08dikmbtcd19ntyokcekiestz8amdpa5&rid=giphy.webp&ct=g" alt="Coder GIF" width="300" height="600">
-
