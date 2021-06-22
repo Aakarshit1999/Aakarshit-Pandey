@@ -16,7 +16,7 @@
 - 🔭 At the moement I am pursuing my Bachelors in Technology (BTech).  
 - 🌱 I’m currently learning React JS and Data engineering and analysis
 - 👯 Data Analyst/Frontend Developer
-- 💬 Ask me about  **C++** **Python** **Data** **Frontend**.
+- 💬 Ask me about  **C++**|**Python**|**Data**|**Frontend**.
 - 📫 How to reach me: aakarshit6143@gmail.com
 
  <hr>
@@ -30,4 +30,6 @@
   <img src ="https://github-readme-stats.vercel.app/api?username=Aakarshit1999&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs&include_all_commits=true">
 </p>
 
+
+<img src="https://media4.giphy.com/media/11ZSwQNWba4YF2/giphy.webp?cid=ecf05e47vphnoefz08dikmbtcd19ntyokcekiestz8amdpa5&rid=giphy.webp&ct=g" alt="Coder GIF" width="600" height="300">
 
