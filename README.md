@@ -31,5 +31,5 @@
 </p>
 
 
-<img src="https://media4.giphy.com/media/11ZSwQNWba4YF2/giphy.webp?cid=ecf05e47vphnoefz08dikmbtcd19ntyokcekiestz8amdpa5&rid=giphy.webp&ct=g" alt="Coder GIF" width="600" height="300">
+<img src="https://media4.giphy.com/media/11ZSwQNWba4YF2/giphy.webp?cid=ecf05e47vphnoefz08dikmbtcd19ntyokcekiestz8amdpa5&rid=giphy.webp&ct=g" alt="Coder GIF" width="300" height="600">
 
