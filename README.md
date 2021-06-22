@@ -2,9 +2,7 @@
 <p align="center">
 
   <img src="https://media4.giphy.com/media/zXmbOaTpbY6mA/100.webp?cid=ecf05e47nn3i2rei26xztsgo98op7b0ooisoeuquica8o5w8&rid=100.webp&ct=g" alt="Coder GIF" width="600" height="300">
-  
-  
-<img src="https://media1.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp?cid=ecf05e47nn3i2rei26xztsgo98op7b0ooisoeuquica8o5w8&rid=200w.webp&ct=g" alt="Coder GIF" width="600" height="300"> 
+ 
 </p>
 
 # Hi guys 👋  I'm Aakarshit Pandey
