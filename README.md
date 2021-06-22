@@ -1,7 +1,7 @@
 # Aakarshit-Pandey
 <p align="center">
 
-  <img src="https://media.giphy.com/media/7FrOU9tPbgAZtxV5mb/giphy.gif" alt="Coder GIF" width="600" height="300">
+  <img src="https://media4.giphy.com/media/7FrOU9tPbgAZtxV5mb/200w.webp?cid=ecf05e473w35bk4vd2f2ha7gto0h05ccm93q1g0pa5yvwhjz&rid=200w.webp&ct=g" alt="Coder GIF" width="600" height="300">
   
   
 <!--    <img src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" alt="Coder GIF" width="600" height="300"> -->
